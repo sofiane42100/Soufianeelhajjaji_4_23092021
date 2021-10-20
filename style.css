@@ -30,7 +30,6 @@ a:hover {
 .bloc {
     clear: both;
     background: 50% 50% no-repeat;
-    padding: 0 50px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
